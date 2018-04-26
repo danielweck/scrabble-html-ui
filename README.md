@@ -6,4 +6,6 @@ SCRABBLE® is a registered trademark. All intellectual property rights in and to
 
 This fun pet project is not associated with any of the owners of the Scrabble brand.
 
+Test here: https://rawgit.com/danielweck/scrabble-html-ui/master/index.html
+
 For a playable version of this basic UI experiment, see: https://github.com/hanshuebner/html-scrabble
