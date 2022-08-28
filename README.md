@@ -1,6 +1,6 @@
 # scrabble-html-ui
 Playful experiment with HTML and Javascript to emulate the famous letter game board
-(including DAWG dictionaries binary compiler written in C)
+(including DAWG dictionaries binary compiler written in C ... note that I did not write this code, and unfortunately I have neither attribution nor open-source license for it ... does anybody know? I am not able to find the original source)
 
 SCRABBLE® is a registered trademark. All intellectual property rights in and to the game are owned in the U.S.A and Canada by Hasbro Inc., and throughout the rest of the world by J.W. Spear & Sons Limited of Maidenhead, Berkshire, England, a subsidiary of Mattel Inc.
 
